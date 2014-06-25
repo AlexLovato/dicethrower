@@ -1,0 +1,6 @@
+c:\users\technologist\documents\visual studio 2012\Projects\dicethrower1000\dicethrower1000\bin\Debug\dicethrower1000.exe.config
+c:\users\technologist\documents\visual studio 2012\Projects\dicethrower1000\dicethrower1000\bin\Debug\dicethrower1000.exe
+c:\users\technologist\documents\visual studio 2012\Projects\dicethrower1000\dicethrower1000\bin\Debug\dicethrower1000.pdb
+c:\users\technologist\documents\visual studio 2012\Projects\dicethrower1000\dicethrower1000\obj\Debug\dicethrower1000.csprojResolveAssemblyReference.cache
+c:\users\technologist\documents\visual studio 2012\Projects\dicethrower1000\dicethrower1000\obj\Debug\dicethrower1000.exe
+c:\users\technologist\documents\visual studio 2012\Projects\dicethrower1000\dicethrower1000\obj\Debug\dicethrower1000.pdb
